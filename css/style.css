@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(../img/bground.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    margin-top: 15px;
+}
+
+.img-cobra{
+    width: 80px;
+}
+
+.bg-grama1{
+    display: none;
+}
+.maca{
+    display: none;
+}
